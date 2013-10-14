@@ -2,4 +2,5 @@
 <manifest>
     <project path="device/lge/e610" name="TeamHackLG/android_device_lge_e610" revision="slimbean43" remote="github" />
     <project path="device/lge/p700" name="TeamHackLG/android_device_lge_p700" revision="slimbean43" remote="github" />
+    <project path="device/lge/msm7x27a-common" name="TeamHackLG/android_device_lge_msm7x27a-common" revision="cm-10.2" remote="github" />
 </manifest>
