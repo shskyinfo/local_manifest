@@ -3,6 +3,7 @@
     <remove-project name="CyanogenMod/android_hardware_qcom_display-caf" />
     <remove-project name="CyanogenMod/android_hardware_qcom_media-caf" />
     <remove-project name="CyanogenMod/android_frameworks_av" />
+    <remove-project name="CyanogenMod/android_packages_apps_SoundRecorder" />
 
     <project path="hardware/qcom/display-caf" name="TeamHackLG/android_hardware_qcom_display-caf" revision="cm-11.0"/>
     <project path="hardware/qcom/media-caf" name="TeamHackLG/android_hardware_qcom_media-caf" revision="cm-11.0" />
@@ -12,5 +13,6 @@
     <project path="kernel/lge/msm7x27a-common" name="TeamHackLG/lge-kernel-lproj" revision="android-msm-3.4-kk" />
     <project path="vendor/lge" name="TeamHackLG/proprietary_vendor_lge" revision="cm-11.0" remote="github"/>
     <project path="frameworks/av" name="TeamHackLG/android_frameworks_av" revision="cm-11.0" />
+    <project path="packages/apps/SoundRecorder" name="TeamHackLG/android_packages_apps_SoundRecorder" revision="cm-11.0" />
  
 </manifest>
