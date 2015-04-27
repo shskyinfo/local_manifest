@@ -6,7 +6,7 @@
     <project path="device/lge/msm7x27a-common" name="TeamHackLG/android_device_lge_msm7x27a-common" revision="cm-11.0" />
     <project path="device/lge/e610" name="TeamHackLG/android_device_lge_e610" revision="cm-11.0" />
     <project path="device/lge/p700" name="TeamHackLG/android_device_lge_p700" revision="cm-11.0" />
-    <project path="kernel/lge/msm7x27a-common" name="TeamHackLG/lge-kernel-lproj" revision="android-msm-3.4-kk" />
+    <project path="kernel/lge/SKernel" name="shskyinfo/SKernel" revision="master" />
     <project path="vendor/lge" name="TeamHackLG/proprietary_vendor_lge" revision="cm-11.0" remote="github"/>
  
 </manifest>
